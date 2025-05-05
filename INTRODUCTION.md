@@ -1,5 +1,3 @@
-INTRODUCTION.md file to explain the different concepts explored within your implementation and why you decided to implement things the way they are, just keep in mind that the goal is to help guide the person that is going to be reviewing your code so try to make it clear and concise
-
 # Considerations
 ## Routing
 Lib used: react-router v6
@@ -33,6 +31,9 @@ Note: It will require backend to re-hash it
 
 ## Added one extra route: /terms
 Added this route to render terms and conditions page.
+
+## Test Cases
+Implemented test cases with RTL and Jest.
 
 ## Further improvements
 ### Security
