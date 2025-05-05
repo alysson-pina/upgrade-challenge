@@ -1,7 +1,8 @@
 # Upgrade Challenge
 
 ## My Considerations
-[Implemetation Considerations](./INTRODUCTION.MD)
+[Implementation Considerations](https://github.com/alysson-pina/upgrade-challenge/blob/main/INTRODUCTION.md)
+
 
 ## Prerequisites
 
