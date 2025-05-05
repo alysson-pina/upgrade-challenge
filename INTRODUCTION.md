@@ -3,17 +3,15 @@
 Lib used: react-router v6
 
 Reasons:
--- standard for SPAs with client-side routing
--- small bundle size
+- standard for SPAs with client-side routing
+- small bundle size
 
 ## State management
 Lib used: zustand
 
 Reasons:
 - We need to gather user data from multiple screens and place it in a one source of truth.
-
 - minimal boilerplate
-
 - optmized re-renders with state update reactivity
 
 ### Performance
