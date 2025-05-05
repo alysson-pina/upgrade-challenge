@@ -1,5 +1,8 @@
 # Upgrade Challenge
 
+## My Considerations
+[Implemetation Considerations](./INTRODUCTION.MD)
+
 ## Prerequisites
 
 - Latest [Node.js LTS](https://nodejs.org/en/download/)
